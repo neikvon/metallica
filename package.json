@@ -1,0 +1,15 @@
+{
+  "name": "metallica",
+  "version": "0.0.0",
+  "description": "metallica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "author": "neikvon@gmail.com",
+  "license": "MIT"
+}
